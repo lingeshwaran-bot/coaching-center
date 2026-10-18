@@ -1,3 +1,4 @@
+
 # Kalaivani Coaching Center — Premium Educational Academy Website
 
 A complete, modern, production-ready website for **Kalaivani Coaching Center**, an educational coaching academy in Tamil Nadu, India, specializing in AISSEE (Sainik School Class VI & IX), RMS (Rashtriya Military Schools), RIMC, and Academic Board Excellence (Class 6–10).
